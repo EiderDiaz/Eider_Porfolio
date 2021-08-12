@@ -21,7 +21,7 @@
 
 ####  Magic Launchap App
 
-- [ ] app movil que contenga sonidos pregrabados (trims de youtube) y anexo con modulos de monetizacion 
+- [ ] app movil que contenga sonidos pregrabados (trims de youtube) y anexo con modulos de [monetizacion] (https://blog.jarrodwatts.com/i-built-a-saas-startup-in-2-months-heres-what-i-learned) 
 
 #### Kaggle spofity proyect 
 - [ ] projecto para crear una playlist entera basado en 4 canciones
