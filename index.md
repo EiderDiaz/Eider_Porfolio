@@ -2,7 +2,12 @@
 
 
 
-## 🚀 List of projects
+
+ <a href="url"><img src="https://avatars.githubusercontent.com/u/17805140" height="auto" width="200" style="border-radius:80%"></a>
+ 
+ 
+
+## 🚀 List of projectsPortfolio
 
 #### [Wario-classifier](https://www.wario-classifier.tech/)
 
