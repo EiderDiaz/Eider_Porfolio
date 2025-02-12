@@ -6,48 +6,41 @@
  <a href="url"><img src="https://avatars.githubusercontent.com/u/17805140" height="auto" width="200" style="border-radius:80%"></a>
  
  
+## Jesús Eider Díaz Moraila
 
-## 🚀 List of projectsPortfolio
+<a href="url"><img src="https://avatars.githubusercontent.com/u/17805140" height="auto" width="200" style="border-radius:80%"></a>
 
-#### [Wario-classifier](https://www.wario-classifier.tech/)
+## 🚀 Proyectos
 
-- Image recognition project built using the Azure service [Custom vision](https://www.customvision.ai), its function is to classify between images of Wario (Nintendo) and my dear friend Wario Chavez.
+### 🆕 Data GPT Workflow ⚙️
+- Integro ChatGPT y Python para automatizar análisis de datos.
+- El objetivo: agilizar mi flujo de trabajo y compartir tips.
 
-The purpose of the project is to exemplify the dynamics of a pipeline *(data selection, splitting train and test, training and evaluation)* of an image recognition learning algorithm.
+### 🍄 Wario-classifier
+- Clasificador de imágenes usando Azure Custom Vision.
+- Detecta si es Wario (Nintendo) o mi amigo Wario Chávez.
+
+### 💤 Sleep/Productivity
+- Análisis de tiempo de sueño vs. horas productivas.
+- Datos de Xiaomi Mi Band 5 + Forest App.
+
+### 🪞 MagicMirror x Memento Mori
+- Módulo de MagicMirror para calcular semanas de vida restantes.
+- Inspirado en la filosofía estoica.
+
+### 🎹 Magic Launchpad App
+- App Ionic con sonidos pregrabados en formato launchpad.
+- Diversión y exploración de monetización.
+
+### 📢 Sinaloa Alerta App
+- App Ionic con notificaciones y alertas personalizadas.
+- Basada en experiencias locales.
+
+### 🎧 Spotify Analysis
+- Análisis de datos personales de Spotify.
+- Inspirado en visualizaciones y herramientas de data.
 
 
-
-## ⚙️ Proyects in progress  
-
-#### sleep/productivity proyect
-
-
--Time Series Analysis of sleep time, daily physical activity vs productive hours, using [daily fitness data](https://user.huami.com/privacy/index.html?v=4.0.5&platform_app=com.xiaomi.hm.health) from Xiaomi mi band 5  and [daily focus/productive hours from Forest app](https://www.forestapp.cc/). 
-
-The purpose of this project is to find the patterns that allow me to answer the following:
-
-- when and how much do I have to sleep to have a productive day?
-- how regularly do I have to exercise to have a productive day?
-
-And in general, do an exploration of my data.
-
-#### MagicMirror x Memento Mori calendar
-
-- Creation of a [MagicMirror](https://magicmirror.builders/) module that takes your data such as age, sex, nationality, etc., and submits it to a machine-learning algorithm to determine your remaining weeks of life and graph the grid of elapsed vs remaining weeks.
-
- The purpose of this project is to crystallize the Stoic mantra *"Mortality and the Key to Living Fully"*
-
-####  Magic Launchap App
-
-- Ionic mobile app that contains prerecorded sounds (YouTube clip audios, viral voice notes, etc.) each audio will have its button within a grid (launchpad).
-
-The purpose of this project is to have fun :), explore the Ionic framework, and components of monetization for apps.
-
-####  Sinaloa Alerta App
-
-- Ionic mobile app that contains prerecorded sounds (YouTube clip audios, viral voice notes, etc.) each audio will have its button within a grid (launchpad).
-
-The purpose of this project is to have fun :), explore the Ionic framework, and components of monetization for apps.
 
 
 ####  Spofity analysis project 
